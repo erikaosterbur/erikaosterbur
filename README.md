@@ -8,4 +8,3 @@
 - 💬 Ask me about world travel 🌏 it's my true passion!
 - 📫 How to reach me: erikaosterbur@gmail.com
 
-#F7DF1E
