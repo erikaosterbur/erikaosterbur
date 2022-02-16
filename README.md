@@ -4,7 +4,7 @@
 - 👩🏼‍🏫 Former teacher
 - 🗣 Bilingual in English & Spanish
 - 🔭 Recently graduated from a full stack coding bootcamp at the University of Minnesota
-- 🌱 I’m currently learning ✨React✨
+- 🌱 I’m currently learning Java + SQL
 - 💬 Ask me about world travel 🌏 it's my true passion!
 - 📫 How to reach me: erikaosterbur@gmail.com
 
